@@ -8,6 +8,10 @@ The pipeline transforms hexadecimal code from Pokemon ROMs into binary sequences
 
 ## Workflow
 
+<div align="center">
+  <img src="resources/workflow.png" alt="Workflow" width="500">
+</div>
+
 1. **ROM Extraction**
    - Extract binary files from a legally purchased Pokemon 3DS ROM (e.g., Pokemon Moon) using 3dsTools and 3dsKit.
    - Convert hexadecimal code (e.g., x89D5DB...) into binary sequences (e.g., 010001001...).
